@@ -29,6 +29,7 @@ const textStyle = {
   fontSize: 10,
   backgroundColor: 'transparent',
   textAlign: 'right',
+  fontFamily: 'AvenirNext-Regular'
 };
 
 const styles = {
