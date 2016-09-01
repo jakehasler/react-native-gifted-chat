@@ -44,6 +44,7 @@ const styles = StyleSheet.create({
     color: '#b2b2b2',
     fontSize: 12,
     fontWeight: '600',
+    fontFamily: 'AvenirNext-Medium'
   },
 });
 
