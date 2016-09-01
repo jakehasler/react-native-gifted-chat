@@ -34,6 +34,7 @@ const styles = StyleSheet.create({
     marginLeft: 10,
     fontSize: 16,
     lineHeight: 16,
+    fontFamily: 'AvenirNext-Regular',
     marginTop: Platform.select({
       ios: 6,
       android: 0,
@@ -52,7 +53,7 @@ Composer.defaultProps = {
     android: 41,
   }), // TODO SHARE with GiftedChat.js and tests
   text: '',
-  placeholder: 'Type a message...',
+  placeholder: 'Show your personality...',
   placeholderTextColor: '#b2b2b2',
   textInputProps: null,
   multiline: true,
